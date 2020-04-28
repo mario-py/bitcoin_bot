@@ -42,7 +42,7 @@ def ao_mandar_mensagem(ws,mensagem):
 
     if price > 8000:
         vender()
-    elif price <7500:
+    elif price <7600:
         comprar()
     else:
         print('Aguardar')
